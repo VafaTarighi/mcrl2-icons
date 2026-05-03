@@ -1,0 +1,8 @@
+{
+	"displayName": "mCRL2 Icons",
+	"description": "File icons for mCRL2 formal verification files",
+	"iconThemeIdDark": "mcrl2-icons-dark",
+	"iconThemeIdLight": "mcrl2-icons-light",
+	"iconThemeLabelDark": "mCRL2 Icons (Dark)",
+	"iconThemeLabelLight": "mCRL2 Icons (Light)"
+}

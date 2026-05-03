@@ -1,0 +1,64 @@
+{
+    "iconDefinitions": {
+        "aut": {
+            "iconPath": "../icons/dark/aut.svg"
+        },
+        "fsm": {
+            "iconPath": "../icons/dark/fsm.svg"
+        },
+        "lps": {
+            "iconPath": "../icons/dark/lps.svg"
+        },
+        "lts": {
+            "iconPath": "../icons/dark/lts.svg"
+        },
+        "mcf": {
+            "iconPath": "../icons/dark/mcf.svg"
+        },
+        "mcrl2": {
+            "iconPath": "../icons/dark/mcrl2.svg"
+        },
+        "pbes": {
+            "iconPath": "../icons/dark/pbes.svg"
+        },
+        "trc": {
+            "iconPath": "../icons/dark/trc.svg"
+        },
+        "xml": {
+            "iconPath": "../icons/dark/xml.svg"
+        },
+        "mcrl2proj": {
+            "iconPath": "../icons/dark/xml.svg"
+        },
+        "json": {
+            "iconPath": "../icons/common/json.svg"
+        },
+        "folder": {
+            "iconPath": "../icons/dark/folder.svg"
+        },
+        "folderExpanded": {
+            "iconPath": "../icons/dark/folderExpanded.svg"
+        }
+    },
+    "folder": "folder",
+    "folderExpanded": "folderExpanded",
+    "fileExtensions": {
+        "aut": "aut",
+        "fsm": "fsm",
+        "lps": "lps",
+        "lts": "lts",
+        "mcf": "mcf",
+        "mcrl2": "mcrl2",
+        "pbes": "pbes",
+        "trc": "trc",
+        "json": "json",
+        "xml": "xml",
+        "mcrl2proj": "mcrl2proj"
+    },
+    "options": {
+        "activeIconPack": "mcrl2",
+        "languages": {
+            "associations": {}
+        }
+    }
+}
